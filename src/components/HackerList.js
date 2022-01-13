@@ -10,7 +10,8 @@ const HackerList = ({stories}) => {
    return (
    <div>
        <ul>
-           {storyNodes}
+           {console.log(storyNodes)}
+           
        </ul>
    </div>
    )
